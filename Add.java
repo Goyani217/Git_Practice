@@ -11,5 +11,4 @@ public class Add {
 		int b = sc.nextInt();
 		System.out.println("Sum is : "+ (a+b));
 	}
-
 }
